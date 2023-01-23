@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Aalok!
 
-### I'm a full stack engineer striving to make tools that make wour lives a little bit easier
+### I'm a full stack engineer striving to make tools that make our lives a little bit easier
 
 - 🔭 I’m currently working on WUNDER, an app that gives you an exciting way to track and learn about national parks
 - 💬 Ask me about anything related to React
